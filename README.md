@@ -1,1 +1,2 @@
 # counterProgram
+The Counter Program is a simple web application that allows users to count up or down using interactive buttons. Built with HTML, CSS, and JavaScript, the program increments or decrements a displayed number based on user input. It includes reset functionality to clear the count and start over. This project demonstrates the use of basic DOM manipulation, event handling, and dynamic updates on the web page
